@@ -1,0 +1,12 @@
+body{
+    background:url('ft3.png');
+    background-repeat:repeat;
+    background-size: cover;
+}
+
+footer {
+    position:fixed;bottom:0;
+    text-align:center;
+    width:100%;
+    display:block;
+}
